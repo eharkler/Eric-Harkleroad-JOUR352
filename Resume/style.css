@@ -30,16 +30,25 @@ h2 {
 }
 
 /* Job Titles before each experience listed */
-
 h3 {
     font-size: 1.5em;
     font-weight: 600;
 }
 
 /* Job organizations before each experience listed */
-
 h4 {
     font-size: 1.5em;
     font-style: italic;
     font-weight: 400;
+}
+
+/* Job dates before each experience */
+h5 {
+   font-weight: 400;
+   font-size: 1em;
+}
+
+/* Items in lists for skills and education */
+li {
+    font-size: 1em;
 }
