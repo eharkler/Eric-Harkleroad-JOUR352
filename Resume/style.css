@@ -1,0 +1,14 @@
+body {
+    color: #444;
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+h1 {
+    color: #33485e;
+    font-size: 3em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
