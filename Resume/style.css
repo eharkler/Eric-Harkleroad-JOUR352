@@ -33,18 +33,21 @@ strong {
     text-transform: uppercase;
     width: 70%;
     min-width: 300px;
-    margin: 20px, 0px, 10px, 0px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right:0;
 }
 
 /* Job Titles before each experience listed */
-h3 {
+.jobtitle {
     font-size: 1.5em;
     font-weight: 600;
 }
 
 /* Job organizations before each experience listed */
-h4 {
-    font-size: 1.5em;
+.organization {
+    font-size: 1.25em;
     font-style: italic;
     font-weight: 400;
 }
