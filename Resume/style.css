@@ -6,11 +6,15 @@ body {
 }
 
 /* Name at top of page */
-h1 {
+#name {
     color: #33485e;
     font-size: 3em;
     text-transform: uppercase;
     text-align: center;
+    border-bottom: 1px solid #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin:0 auto;
 }
 
 /* My titles at top of page*/
@@ -21,12 +25,15 @@ strong {
 }
 
 /* Section dividers (Skills/Experience/etc) */
-h2 {
+.sectionheader {
     background-color: #33485e;
     color:white;
     font-size: 1.5em;
     font-weight: 400;
     text-transform: uppercase;
+    width: 70%;
+    min-width: 300px;
+    margin: 20px, 0px, 10px, 0px;
 }
 
 /* Job Titles before each experience listed */
