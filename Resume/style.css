@@ -1,0 +1,54 @@
+body {
+    color: #444;
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+/* Name at top of page */
+h1 {
+    color: #33485e;
+    font-size: 3em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* My titles at top of page*/
+strong {
+    color: #33485e;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+/* Section dividers (Skills/Experience/etc) */
+h2 {
+    background-color: #33485e;
+    color:white;
+    font-size: 1.5em;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+/* Job Titles before each experience listed */
+h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+/* Job organizations before each experience listed */
+h4 {
+    font-size: 1.5em;
+    font-style: italic;
+    font-weight: 400;
+}
+
+/* Job dates before each experience */
+h5 {
+   font-weight: 400;
+   font-size: 1em;
+}
+
+/* Items in lists for skills and education */
+li {
+    font-size: 1em;
+}
