@@ -1,0 +1,47 @@
+.masthead {
+  display: block;
+  margin: 0 auto;
+}
+
+#byline {
+  font-family: "Helvetica", sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  margin-bottom: 30px;
+}
+
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+h1 {
+  font-family: "Helvetica", sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: "Georgia";
+  font-size: 13px;
+}
+
+.head-photos {
+  width: 800px;
+}
+
+.photos {
+  width: 800px;
+  margin-top: 20px;
+}
+
+.captions {
+  font-family: "Helvetica", sans-serif;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+blockquote {
+  font-family: "Helvetica", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
