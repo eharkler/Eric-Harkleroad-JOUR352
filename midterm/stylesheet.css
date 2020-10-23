@@ -7,6 +7,9 @@
 
 h1 {
   font-family: "Helvetica", sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 body {
@@ -22,18 +25,12 @@ blockquote {
   color: #714e83;
 }
 
-.byline {
-  font-family: "Helvetica", sans-serif;
-  font-size: 14px;
-  font-style: italic;
-  margin-bottom: 30px;
-}
-
-
 #byline {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 30px;
   font-size: 15px;
+  font-style: italic;
+  font-weight: bold;
 }
 
 .masthead {
@@ -44,15 +41,27 @@ blockquote {
 .header-photo {
   display: block;
   width: 900px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .body-photo {
   display: block;
   margin-top: 30px;
   width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .captions {
+  font-family: "Helvetica", sans-serif;
+  font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+}
+
+.header-captions {
   font-family: "Helvetica", sans-serif;
   font-size: 15px;
   margin-top: 5px;
@@ -62,4 +71,6 @@ blockquote {
 .vertical-body-photo {
   height: 800px;
   margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
