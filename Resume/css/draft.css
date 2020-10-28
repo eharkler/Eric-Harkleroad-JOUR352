@@ -1,0 +1,115 @@
+h1 {
+  font-size: 80px;
+}
+
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+}
+
+/* This formats the header section of the page including my name & title  */
+#top-row {
+  background-color: #f0d1bf;
+  padding: 10px;
+}
+
+.headline {
+  font-family: 'DM Serif Display', serif;
+}
+
+.subheadline {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  margin-top: -25px;
+  margin-left: 80px;
+}
+
+i.fas,
+  i.fab {
+    color: #c7551d;
+    
+  }
+
+/* This formats the spacing between sections of the resume and the top of the page */
+
+.body-content {
+  margin-top: 20px;
+}
+
+.panel-content {
+  margin-left: 55px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.skills-content {
+  margin-left: 35px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.bubble-heading {
+  background-color: #c7551d;
+  border-radius: 50px;
+  color: #ffffff;
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* This formats the content inside each section (the job dates, the descriptions, GPA, etc) */
+
+.date {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 12px;
+  margin-top: -5px;
+}
+
+.blurb {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 500;
+  width: 80%;
+  margin-top: -10px;
+  margin-left: 30px;
+}
+
+/* This formats the images on the right side of the page */
+
+.headshot-img {
+  position: relative;
+  border-radius: 50%;
+  border: solid 10px white;
+  box-shadow: 45px 30px #c7551d;
+  bottom: 95px;
+  right: 40px;
+}
+
+.headshot-img:hover {
+  position: relative;
+  border-radius: 50%;
+  border: solid 10px white;
+  box-shadow: 25px 30px #3a9aa0;
+  bottom: 95px;
+  right: 40px;
+}
+
+.portfolio-img {
+  position: relative;
+  border-radius: 15%;
+  border: solid 10px white;
+  box-shadow: 45px 30px #c7551d;
+  bottom: 50px;
+  right: 40px;
+}
+
+.portfolio-img:hover {
+  position: relative;
+  border-radius: 15%;
+  border: solid 10px white;
+  box-shadow: 25px 30px #3a9aa0;
+  bottom: 50px;
+  right: 40px;
+}
