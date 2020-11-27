@@ -11,6 +11,7 @@
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   text-align: center;
+  margin-top: 20px;
 }
 
 #chapter-title {
@@ -19,6 +20,18 @@
   font-weight: 700;
   color: #f23030;
   margin-bottom: 10px;
+}
+
+a {
+  color: #f23030
+}
+
+a:hover {
+  color: #9c2c2c;
+}
+
+a:visited {
+  color: #753d3d;
 }
 
 .image {
@@ -33,7 +46,7 @@
   font-family: "Arial", sans-serif;
   font-size: .85em;
   color: gray;
-  margin-left: 11.40em;
+  text-align: center;
 }
 
 p {
