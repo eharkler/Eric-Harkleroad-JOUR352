@@ -7,9 +7,10 @@
 }
 
 #byline {
-  font-size: 1em;
+  font-size: 1.2em;
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
+  font-weight: 400;
   text-align: center;
   margin-top: 20px;
 }
@@ -54,6 +55,11 @@ p {
   font-family: "Georgia", serif;
   line-height: 180%;
   font-size: 1em;
+}
+
+hr {
+  border: 0.5px solid #f23030;
+  margin-top: -5px;
 }
 
 .footer {
